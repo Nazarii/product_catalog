@@ -14,3 +14,5 @@ You should have [python version > 3.5](https://www.python.org/downloads/) instal
 3. Install dependencies from the Pipfile: `pipenv install` (Note that if you have python 2 installed on your system you should specify python 3 version directly: `pipenv --python 3 install` )
 4. Activate the virtualenv: `pipenv shell` - if you received no error's - you did everything correctly! Otherwise, try to figure out what went wrong
 5. [Install redis server](https://redis.io/topics/quickstart)
+
+Code paste [here](http://collabedit.com/dfanr)
